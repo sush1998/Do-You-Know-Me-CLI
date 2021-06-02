@@ -5,7 +5,7 @@ Built a simple CLI quiz app about me using following  APIs :
 1.chalk
 1.chalk-rainbow
 
-# readline-sync
+# [readline-sync](https://www.npmjs.com/package/readline-sync "readline-sync")
 readlineSync tries to let your script have a conversation with the user via a console, even when the input/output stream is redirected
 
 # Chalk
